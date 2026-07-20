@@ -18,6 +18,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>
 
@@ -53,16 +55,47 @@ Soy un estudiante de ingenieria en sistemas medio menso pero ahi vamos :v
 
 <div align="center">
 
-## Stats
+## Estadisticas
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=strem5059&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strem5059&layout=compact&theme=tokyonight&hide_border=true" />
+**Repositorios**
 
-<br><br>
+![Repos](https://img.shields.io/badge/Repos-10-1572B6?style=for-the-badge&logo=github&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=strem5059&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</td>
+<td align="center" width="50%">
+
+**Stars**
+
+![Stars](https://img.shields.io/github/stars/strem5059?style=for-the-badge&color=yellow&logo=github&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Seguidores**
+
+![Followers](https://img.shields.io/github/followers/strem5059?style=for-the-badge&color=blue&logo=github&logoColor=white)
+
+</td>
+<td align="center">
+
+**Commits estimados**
+
+![Commits](https://img.shields.io/badge/Commits-50+-green?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Top Languages](https://img.shields.io/badge/Top_Languages-Java%20%7C%20Python%20%7C%20C%23%20%7C%20Neo4j-00d4ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
