@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="perfil-repo.png" width="200" style="border-radius: 50%;">
+
 # Hola, soy Strem 
 
 ### Ingenieria en Sistemas | Desarrollador
