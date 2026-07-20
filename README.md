@@ -4,48 +4,8 @@
 
 <br><br>
 
-<!-- Letrero STREM con animacion cascada -->
-<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo oscuro -->
-  <rect width="400" height="80" rx="10" fill="#1a1a2e"/>
-  
-  <!-- Letra S -->
-  <text x="50" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="#333">
-    S<tspan fill="#00d4ff">
-      <animate attributeName="fill" values="#333;#00d4ff;#333" dur="3s" begin="0s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-  <!-- Letra T -->
-  <text x="110" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="#333">
-    T<tspan fill="#00d4ff">
-      <animate attributeName="fill" values="#333;#00d4ff;#333" dur="3s" begin="0.3s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-  <!-- Letra R -->
-  <text x="175" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="#333">
-    R<tspan fill="#00d4ff">
-      <animate attributeName="fill" values="#333;#00d4ff;#333" dur="3s" begin="0.6s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-  <!-- Letra E -->
-  <text x="240" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="#333">
-    E<tspan fill="#00d4ff">
-      <animate attributeName="fill" values="#333;#00d4ff;#333" dur="3s" begin="0.9s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-  <!-- Letra M -->
-  <text x="305" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="#333">
-    M<tspan fill="#00d4ff">
-      <animate attributeName="fill" values="#333;#00d4ff;#333" dur="3s" begin="1.2s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-  
-  <!-- Glow effect -->
-  <text x="50" y="58" font-family="'Arial Black', sans-serif" font-size="48" font-weight="bold" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.3">
-    STREM
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
-  </text>
-</svg>
+<!-- Typing animation STREM -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=STREM" alt="Typing SVG" />
 
 ### Ingenieria en Sistemas | Desarrollador
 
@@ -58,7 +18,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
 
@@ -70,9 +29,9 @@ Soy un estudiante de ingenieria en sistemas apasionado por el desarrollo de soft
 
 ## Sobre mi
 
--  Estudiando Ingenieria en Sistemas
--  Aprendiendo Java, Neo4j, Python y C#
--  Interesado en bases de datos grafos y desarrollo web
+- Estudiando Ingenieria en Sistemas
+- Aprendiendo Java, Neo4j, Python y C#
+- Interesado en bases de datos grafos y desarrollo web
 
 ---
 
@@ -98,14 +57,12 @@ Soy un estudiante de ingenieria en sistemas apasionado por el desarrollo de soft
 
 <br>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=strem5059&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=strem5059&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<br>
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strem5059&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strem5059&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=strem5059&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=strem5059&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
