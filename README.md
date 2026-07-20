@@ -30,8 +30,8 @@ Soy un estudiante de ingenieria en sistemas medio menso pero ahi vamos :v
 ## Sobre mi
 
 - Estudiando Ingenieria en Sistemas
-- Aprendiendo Java, Neo4j, Python y C#
-- Interesado en bases de datos grafos y desarrollo web
+- Menso por naturaleza
+- No se pero ahi vemos luego :v
 
 ---
 
