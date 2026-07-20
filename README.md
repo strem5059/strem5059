@@ -21,7 +21,7 @@
 
 <br>
 
-Soy un estudiante de ingenieria en sistemas apasionado por el desarrollo de software. Me interesa el desarrollo backend, bases de datos y la arquitectura de aplicaciones web.
+Soy un estudiante de ingenieria en sistemas medio menso pero ahi vamos :v
 
 </div>
 
